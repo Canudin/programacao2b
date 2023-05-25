@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600;700&display=swap');
+
+
+body{
+margin: 0px;
+border: 0px;
+
+}
+
+header{
+ 
+
+
+
+}
+
+.titulo{
+    
+    display: flex;
+    flex-direction: column;
+      text-align: center;
+
+}
+
+#intro{
+
+font-size: 25px;
+
+
+}
+
+.resumo{
+    font-family: 'Quicksand', sans-serif;
+    font-style: oblique;
+    font-weight: 700;
+    display: flex;
+    margin: 0px 0px 0px 160px;
+    text-align: center;
+}
+
+#titulo{
+letter-spacing: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+
+}
+
+
+#knight{
+
+    margin-left: 80px;
+    width: 400px;
+
+
+}
+
+main{
+    margin-top: 80px;
+    background-color: black;
+    height: 800px;
+
+}
+
+#historia{
+    color: white;
+    
+}
+
+
+
+#void{
+margin-top: 100px;
+    width: 300px;
+
+}
