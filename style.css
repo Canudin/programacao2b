@@ -21,9 +21,7 @@ header{
 }
 
 #intro{
-
-font-size: 25px;
-
+    font-size: 25px;
 
 }
 
@@ -37,7 +35,7 @@ font-size: 25px;
 }
 
 #titulo{
-letter-spacing: 10px;
+    letter-spacing: 10px;
     font-family: 'Quicksand', sans-serif;
     font-size: 50px;
 
